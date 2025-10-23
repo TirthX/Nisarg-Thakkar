@@ -1,0 +1,11 @@
+# GitHub Pages Configuration
+title: "Nisarg Thakkar - Real Estate & Banking Strategist"
+description: "Strategic expertise in real estate, banking, and market analysis"
+baseurl: ""
+url: "https://tirthx.github.io"
+
+# This is a static HTML site, so we don't need Jekyll processing
+# Exclude Jekyll processing to serve HTML files directly
+exclude:
+  - README.md
+  - LICENSE
